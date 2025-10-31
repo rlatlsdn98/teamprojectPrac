@@ -5,7 +5,7 @@
 * 팀원 :김신우, 윤성원, 손창우, 임원석
 
 
-> 브랜치 규칙 : myprofile/'username'
+> 브랜치 규칙 : username/issuenum + 'issuename'
  
 > 커밋 규칙 : 간단한 브랜치 설명.
 
