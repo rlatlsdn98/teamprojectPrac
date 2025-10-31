@@ -11,7 +11,4 @@
 
 > 폴더작명규칙 : user full name by lower case.
 
-> PR코멘트규칙 : 
-
-
-
+> PR코멘트규칙 : 수정내용을 최대한 정확하게 설명.
