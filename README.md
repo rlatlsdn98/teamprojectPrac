@@ -7,10 +7,12 @@
 ***자기소개***
 
 ---
+
+***Team Guideline***
 > 브랜치 규칙 : username/(issuenum)issuename
- 
+>
 > 커밋 규칙 : 간단한 브랜치 설명.
-
+>
 > 폴더작명규칙 : user full name by lower case.
-
+>
 > PR코멘트규칙 : 수정내용을 최대한 정확하게 설명.
