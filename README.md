@@ -4,7 +4,7 @@
 
 ---
 # 주제
-* 자기소개
+***자기소개***
 
 ---
 > 브랜치 규칙 : username/(issuenum)issuename
